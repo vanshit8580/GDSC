@@ -1,0 +1,587 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+.left{
+        
+    position: absolute;
+    left: 50px;
+    top: 10px;
+    color: green;
+    font-size: 40px;
+    
+    
+ 
+    
+    
+
+}
+.mid{
+    padding: 10px;
+    width: 36%;
+    margin:  auto;
+    
+    
+    
+
+}
+.right{
+    position: absolute;
+    right: 50px;
+    
+    top: 10px;
+
+}
+.navbar li{
+    display:inline-block;
+    padding: 10px 15px;
+}
+.right button{
+    border: 2px solid green;
+    
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+    font-size: 25px;
+}
+.download{
+    cursor: pointer;
+    
+}
+.download:hover{
+    background-color: green;
+
+}
+.navbar li{
+    cursor:pointer;
+    border: 2px solid white;
+    border-radius: 50px;
+
+}
+.navbar li:hover{
+    text-decoration: underline;
+    background-color:green;
+}
+.welcomeleft{
+    position:absolute;
+    right :1000px;
+    margin-left:60px;
+    padding-top: 50px;
+    
+    
+}
+.welcome{
+    border: 2px solid green;
+    border-radius: 50px;
+    margin-right:280px;
+    padding: 10px;
+    color: green;
+}
+.green{
+    position:absolute;
+    right:70px;
+    border: 2px solid green;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 300px;
+    margin-top: 50px;
+    background-color: green;
+    box-shadow: 10px 10px ;
+    transform-origin: left;
+    
+     
+}
+.welcomedown{
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.welcomedownsmall{
+    padding-bottom: 40px;
+}
+.btn2{
+    font-size: 10px;
+    border:1px solid green;
+    background-color: white;
+    padding:10px;
+
+}
+.btn1{
+    font-size: 10px;
+    background-color: green;
+    border:1px solid green;
+    margin-right: 10px;
+    padding:10px;
+    color:white;
+    
+}
+.btn1:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+.btn2:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+.thirdpart{
+    margin-top: 500px;
+    
+    
+}
+.fulleighty{
+    border-right: 2px solid green;
+    position: absolute;
+    left: 100px;
+    
+    
+    padding-right: 250px;
+    
+    
+    
+}
+.fulltwohundered{
+    padding: 10px;
+    width: 36%;
+    margin:  auto;
+    text-align: center;
+    
+    
+
+    
+}
+    
+.fullnintynine{
+    position: absolute;
+    right: 100px;
+    top:560px;
+    border-left: 2px solid green;
+    padding-left: 250px;
+}
+.eighty{
+    font-size: 40px;
+    color:green;
+}
+.twohundered{
+    font-size: 40px;
+    color: green;
+
+}
+.nintynine{
+    font-size: 40px;
+    color:green;
+}
+.twohundereddown{
+    margin-top: 8px;
+}
+.downeighty{
+    margin-top: 8px;
+}
+.nintyninedown{
+    margin-top: 8px;
+}
+.fourthpartleft{
+    position: absolute;
+}
+.myskillsdownright{
+    margin-left:720px;
+    margin-top: 100px;
+}
+.fourthpartleft{
+    margin-left: 60px;
+    
+     
+    
+}
+.myskillsdown{
+    margin-top: 10px;
+    margin-right:900px;
+}
+.myskills{
+    border:2px solid green;
+    border-radius: 30px;
+    margin-right: 1293px;
+    padding:10px;
+    color: green;
+}
+.headingmyskills{
+    font-size: 50px;
+
+}
+.myskillspara{
+    margin-top: 15px;
+}
+.buttonthree{
+    border:2px solid green;
+    background-color:green;
+    color:white;
+    padding-top:10px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.skillsecond{
+    margin-left: 350px;
+    padding-top:20px;
+}
+.imgthree{
+    margin-top: 20px;
+}
+#fifth{
+    margin-top: 70px;
+    margin-left: 60px;
+    
+
+    display: flex;
+
+}
+.portfolio{
+    border:2px solid green;
+    border-radius: 30px;
+    margin-right: 310px;
+    padding:10px;
+    
+}
+.headingportfolio{
+    font-size: 50px;
+}
+.portfoliopara{
+    margin-top: 15px;
+}
+.buttonfour{
+    border:2px solid green;
+    background-color:green;
+    color:white;
+    padding-top:10px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.review{
+    border:2px solid green;
+    border-radius: 30px;
+    margin-right: 493px;
+    padding:10px;
+    margin-right: 500px;
+   
+    
+}
+.reviewpara{
+    margin-top: 20px;
+    font-size: 50px;
+    
+}
+.sixthpartleft{
+    border:2px solid white;
+    float: left;
+    width:40%;
+    margin-left:60px;
+    margin-top: 100px;
+    
+}
+.sixthpartright{
+    border:2px solid white;
+    margin-top:  5px;
+    float: right;
+    margin-top: 230px;
+    margin-right: 200px;
+}
+.arrow{
+    display: flex;
+    padding: 20px;
+}
+.arrowleft{
+    padding-right: 25px;
+    padding-top: 3px;
+    font-size: 22px;
+    color: grey;
+}
+.arrowright{
+    text-decoration: none;
+    border: none;
+    background-color: white;
+    font-size: 25px;
+}
+#allimage{
+    
+    height: 40px;
+    width: 40px;
+    
+    
+}
+.imgtwodownheading{
+    font-size: 21px;
+}
+.imgdownheading{
+    font-size: 21px;
+}
+.imagethreedownheading{
+    font-size: 21px;
+}
+.buttonthree{
+    margin-top: 45px;
+}
+.myskills{
+    margin-bottom: 40px;
+}
+.portfolio{
+    margin-bottom: 22px;
+    color: green;
+}
+.buttonfour{
+    margin-top: 45px ;
+}
+.review{
+    margin-top: 100px;
+    margin-bottom: 22px;
+    color: green;
+    
+}
+.buttonthree:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+.buttonfour:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+.arrowright:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+
+.fifthpartleft{
+    
+    width: 29%;
+    height: 60%;
+
+}
+.img7{
+    
+    margin-left: 100px ;
+    margin-top: 100px;
+    width: 1330px;
+}
+.lastpart{
+    text-align: center;
+
+}
+.contact{
+    border: 2px solid green;
+    border-radius: 40px;
+    color: green;
+    
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-right: 640px;
+    margin-left: 640px;
+}
+.contactdown{
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+.projectpra{
+    margin-right: 540px;
+    margin-left:540px;
+}
+.details{
+    
+    padding: 10px;
+    display: flex;
+    margin-left: 70px ;
+}
+.leftbox{
+    
+    width:30%;
+    
+
+}
+.rightbox{
+    
+    width:65%;
+    padding: 10px;
+    
+}
+#phone{
+    
+    padding-right: 20px;
+}
+#mail{
+    
+    padding-right: 20px;
+}
+#location{
+    
+    padding-right: 20px;
+}
+
+.leftfirst{
+    display: flex;
+    margin-bottom: 30px;
+    
+}
+.leftsecond{
+    display: flex;
+    margin-bottom: 30px;
+    
+}
+.leftthird{
+    display: flex;
+    
+}
+.num{
+    
+    padding-top: 8px ;
+    
+}
+.email{
+    
+    padding-top: 8px ;
+    
+}
+.address{
+    
+    padding-top: 8px ;
+    
+}
+.number{
+    padding-top:8px ;
+}
+.emailaddress{
+    padding-top:8px ;
+}
+.rohtak{
+    padding-top:8px ;
+}
+.addressright{
+    color: grey;
+}
+.emailme{
+    color: grey;
+}
+.callme{
+    color: grey;
+}
+.rightleft{
+    
+    padding: 10px;
+}
+.leftright{
+    
+    padding: 10px;
+}
+.namebox{
+    display: flex;
+}
+.fullname{
+    padding-bottom: 15px;
+    
+}
+.phonenumber{
+
+}
+.youremail{
+    padding-bottom: 15px;
+
+}
+.budget{
+
+}
+.fullname input{
+    width: 350px;
+    height: 50px;
+    border: 1px solid rgb(225, 224, 224);
+    
+}
+.phonenumber input{
+    width: 350px;
+    height: 50px;
+    border: 1px solid rgb(225, 224, 224);
+    
+}
+.youremail input{
+    width: 350px;
+    height: 50px;
+    border: 1px solid rgb(225, 224, 224);
+    
+}
+.budget input{
+    width: 350px;
+    height: 50px;
+    border: 1px solid rgb(225, 224, 224);
+}
+.message input{
+    height: 100px;
+    width: 722px;
+    border: 1px solid rgb(225, 224, 224);
+    
+    
+}
+
+
+.message{
+    padding-top: 10px;
+    padding-left: 12px;
+    
+}
+.btn7{
+    font-size: 10px;
+    background-color: green;
+    border:1px solid green;
+    margin-right: 10px;
+    padding:10px;
+    color:white;
+}
+.finalbutton{
+    margin-top: 20px;
+    margin-left: 1100px;
+    padding-bottom: 30px;
+    
+    
+}
+.btn7:hover{
+    text-decoration: underline;
+    cursor:pointer;
+    border-bottom: 2px solid rgb(181, 180, 180);
+    
+}
+.finalpart{
+    border-top: 2px solid rgb(189, 189, 189);
+    display: flex;
+    padding-top: 30px;
+}
+.lastimage{
+    margin-left: 800px;
+}
+.copyright{
+    margin-left: 100px;
+}
+.dottedimage{
+    float: right;
+
+}
+.imgdottedimage{
+    height: 100px;
+    
+}
+.imgdottedimage2{
+    margin-top: 80px;
+    height: 100px;
+    
+}
+.imgdottedimage3{
+    margin-top: 80px;
+    height: 100px;
+    float: right;
+}
+.imgdottedimage4{
+    
+    height: 100px;
+    
+}
+
